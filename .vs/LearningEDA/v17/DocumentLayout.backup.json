@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muril\\Downloads\\LearningEDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\consumers\\paymentcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\consumers\\paymentcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\building_blocks\\contracts\\ledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|solutionrelative:src\\building_blocks\\contracts\\ledgerentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\context\\ledgerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\context\\ledgerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF7FDDC-0508-45CF-820E-9CC333F22B84}|..\\PaymentsService\\PaymentsService.csproj|c:\\users\\muril\\downloads\\paymentsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\setup\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\setup\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\building_blocks\\contracts\\paymentcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|solutionrelative:src\\building_blocks\\contracts\\paymentcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF7FDDC-0508-45CF-820E-9CC333F22B84}|..\\PaymentsService\\PaymentsService.csproj|c:\\users\\muril\\downloads\\paymentsservice\\paymentsservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\building_blocks\\contracts\\createpaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|solutionrelative:src\\building_blocks\\contracts\\createpaymentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\building_blocks\\building_blocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB6FE571-C104-41CD-81BF-F7835A5431CB}|src\\Building_Blocks\\Building_Blocks.csproj|solutionrelative:src\\building_blocks\\building_blocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\ledgerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\ledgerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45021777-7BFE-4862-A871-C35C583F408C}|LearningEDA.csproj|C:\\Users\\Muril\\Downloads\\LearningEDA\\infra\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{45021777-7BFE-4862-A871-C35C583F408C}|LearningEDA.csproj|solutionrelative:infra\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|c:\\users\\muril\\downloads\\learningeda\\src\\ledgerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D00B094-A80A-48CD-97B3-BF9D17873D67}|src\\LedgerService\\LedgerService.csproj|solutionrelative:src\\ledgerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Consumers\\PaymentCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\LedgerService\\Consumers\\PaymentCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Consumers\\PaymentCreatedConsumer.cs",
+              "RelativeToolTip": "src\\LedgerService\\Consumers\\PaymentCreatedConsumer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:28:48.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LedgerDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Context\\LedgerDbContext.cs",
+              "RelativeDocumentMoniker": "src\\LedgerService\\Context\\LedgerDbContext.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Context\\LedgerDbContext.cs",
+              "RelativeToolTip": "src\\LedgerService\\Context\\LedgerDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:32:00.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Setup\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "src\\LedgerService\\Setup\\ApiConfig.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Setup\\ApiConfig.cs",
+              "RelativeToolTip": "src\\LedgerService\\Setup\\ApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:36:51.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LedgerEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Contracts\\LedgerEntry.cs",
+              "RelativeDocumentMoniker": "src\\Building_Blocks\\Contracts\\LedgerEntry.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Contracts\\LedgerEntry.cs",
+              "RelativeToolTip": "src\\Building_Blocks\\Contracts\\LedgerEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:20:21.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Program.cs",
+              "RelativeDocumentMoniker": "src\\LedgerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Program.cs",
+              "RelativeToolTip": "src\\LedgerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:25:24.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Worker.cs",
+              "RelativeDocumentMoniker": "src\\LedgerService\\Worker.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\Worker.cs",
+              "RelativeToolTip": "src\\LedgerService\\Worker.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:25:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreatePaymentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Contracts\\CreatePaymentRequest.cs",
+              "RelativeDocumentMoniker": "src\\Building_Blocks\\Contracts\\CreatePaymentRequest.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Contracts\\CreatePaymentRequest.cs",
+              "RelativeToolTip": "src\\Building_Blocks\\Contracts\\CreatePaymentRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:24:28.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\PaymentsService\\Program.cs",
+              "RelativeDocumentMoniker": "..\\PaymentsService\\Program.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\PaymentsService\\Program.cs",
+              "RelativeToolTip": "..\\PaymentsService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:22:31.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PaymentCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Contracts\\PaymentCreated.cs",
+              "RelativeDocumentMoniker": "src\\Building_Blocks\\Contracts\\PaymentCreated.cs",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Contracts\\PaymentCreated.cs",
+              "RelativeToolTip": "src\\Building_Blocks\\Contracts\\PaymentCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:20:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PaymentsService.csproj",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\PaymentsService\\PaymentsService.csproj",
+              "RelativeDocumentMoniker": "..\\PaymentsService\\PaymentsService.csproj",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\PaymentsService\\PaymentsService.csproj",
+              "RelativeToolTip": "..\\PaymentsService\\PaymentsService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T19:24:37.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Building_Blocks.csproj",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Building_Blocks.csproj",
+              "RelativeDocumentMoniker": "src\\Building_Blocks\\Building_Blocks.csproj",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\Building_Blocks\\Building_Blocks.csproj",
+              "RelativeToolTip": "src\\Building_Blocks\\Building_Blocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T19:20:24.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LedgerService.csproj",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\LedgerService.csproj",
+              "RelativeDocumentMoniker": "src\\LedgerService\\LedgerService.csproj",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\LedgerService.csproj",
+              "RelativeToolTip": "src\\LedgerService\\LedgerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-18T19:25:21.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\infra\\docker-compose.yml",
+              "RelativeDocumentMoniker": "infra\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\infra\\docker-compose.yml",
+              "RelativeToolTip": "infra\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-02-18T19:29:36.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\LedgerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Muril\\Downloads\\LearningEDA\\src\\LedgerService\\appsettings.json",
+              "RelativeToolTip": "src\\LedgerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-18T19:51:20.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

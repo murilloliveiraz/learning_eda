@@ -1,0 +1,2 @@
+C:\Users\Muril\Downloads\LearningEDA\obj\Debug\LearningEDA.csproj.AssemblyReference.cache
+C:\Users\Muril\Downloads\LearningEDA\obj\Debug\LearningEDA.csproj.CoreCompileInputs.cache

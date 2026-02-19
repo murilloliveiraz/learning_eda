@@ -1,0 +1,14 @@
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\bin\Debug\net8.0\Building_Blocks.deps.json
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\bin\Debug\net8.0\Building_Blocks.dll
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\bin\Debug\net8.0\Building_Blocks.pdb
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.csproj.AssemblyReference.cache
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.AssemblyInfoInputs.cache
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.AssemblyInfo.cs
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.csproj.CoreCompileInputs.cache
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.dll
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\refint\Building_Blocks.dll
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.pdb
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\ref\Building_Blocks.dll
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\bin\Debug\net8.0\Building_Blocks.runtimeconfig.json
+C:\Users\Muril\Downloads\LearningEDA\src\Building_Blocks\obj\Debug\net8.0\Building_Blocks.genruntimeconfig.cache
